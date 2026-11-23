@@ -36,8 +36,6 @@ New Era University
 - HTML
 
 ## 📫 You May Reach Me At
-
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
 - **Email:** [rawiczmabato1@gmail.com](mailto:rawiczmabato1@gmail.com)
 
 ---
